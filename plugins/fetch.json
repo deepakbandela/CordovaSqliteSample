@@ -1,0 +1,21 @@
+{
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.device"
+        }
+    },
+    "org.apache.cordova.splashscreen": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.splashscreen"
+        }
+    },
+    "com.brodysoft.sqlitePlugin": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/litehelpers/Cordova-sqlite-storage.git",
+            "subdir": "."
+        }
+    }
+}
